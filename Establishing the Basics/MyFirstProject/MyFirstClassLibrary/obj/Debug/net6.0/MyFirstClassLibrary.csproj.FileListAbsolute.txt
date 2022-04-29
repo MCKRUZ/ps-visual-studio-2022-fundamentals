@@ -1,0 +1,12 @@
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\bin\Debug\net6.0\MyFirstClassLibrary.deps.json
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\bin\Debug\net6.0\MyFirstClassLibrary.dll
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\bin\Debug\net6.0\MyFirstClassLibrary.pdb
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.csproj.AssemblyReference.cache
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.AssemblyInfoInputs.cache
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.AssemblyInfo.cs
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.dll
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\refint\MyFirstClassLibrary.dll
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\MyFirstClassLibrary.pdb
+C:\temp\ps-demos\MyFirstProject\MyFirstClassLibrary\obj\Debug\net6.0\ref\MyFirstClassLibrary.dll

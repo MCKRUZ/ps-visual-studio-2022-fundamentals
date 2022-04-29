@@ -1,0 +1,8 @@
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\bin\Debug\ConsoleApp1DotNet.exe.config
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\bin\Debug\ConsoleApp1DotNet.exe
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\bin\Debug\ConsoleApp1DotNet.pdb
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\obj\Debug\ConsoleApp1DotNet.csproj.AssemblyReference.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\obj\Debug\ConsoleApp1DotNet.csproj.SuggestedBindingRedirects.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\obj\Debug\ConsoleApp1DotNet.csproj.CoreCompileInputs.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\obj\Debug\ConsoleApp1DotNet.exe
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1DotNet\obj\Debug\ConsoleApp1DotNet.pdb

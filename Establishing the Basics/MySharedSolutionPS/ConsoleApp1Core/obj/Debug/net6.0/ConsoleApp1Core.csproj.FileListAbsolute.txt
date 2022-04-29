@@ -1,0 +1,15 @@
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\bin\Debug\net6.0\ConsoleApp1Core.exe
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\bin\Debug\net6.0\ConsoleApp1Core.deps.json
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\bin\Debug\net6.0\ConsoleApp1Core.runtimeconfig.json
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\bin\Debug\net6.0\ConsoleApp1Core.dll
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\bin\Debug\net6.0\ConsoleApp1Core.pdb
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.csproj.AssemblyReference.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.AssemblyInfoInputs.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.AssemblyInfo.cs
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.csproj.CoreCompileInputs.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.dll
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\refint\ConsoleApp1Core.dll
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.pdb
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ConsoleApp1Core.genruntimeconfig.cache
+C:\temp\ps-demos\MySharedSolutionPS\ConsoleApp1Core\obj\Debug\net6.0\ref\ConsoleApp1Core.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WsW2jUveGbrf2B6HgxhnXAQw/quvkvqHhq35X2oJMeHu1Wv00H5QvdNmpU2G4lvVF7BRtrlpvVw2DoLXXNmnhQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ps-demos\\MyFirstProject\\MyFirstClassLibrary\\MyFirstClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kruz7\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

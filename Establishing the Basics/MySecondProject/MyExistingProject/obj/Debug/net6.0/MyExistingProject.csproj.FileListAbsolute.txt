@@ -1,0 +1,12 @@
+C:\temp\ps-demos\MySecondProject\MyExistingProject\bin\Debug\net6.0\MyExistingProject.deps.json
+C:\temp\ps-demos\MySecondProject\MyExistingProject\bin\Debug\net6.0\MyExistingProject.dll
+C:\temp\ps-demos\MySecondProject\MyExistingProject\bin\Debug\net6.0\MyExistingProject.pdb
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.csproj.AssemblyReference.cache
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.AssemblyInfoInputs.cache
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.AssemblyInfo.cs
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.csproj.CoreCompileInputs.cache
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.dll
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\refint\MyExistingProject.dll
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\MyExistingProject.pdb
+C:\temp\ps-demos\MySecondProject\MyExistingProject\obj\Debug\net6.0\ref\MyExistingProject.dll
