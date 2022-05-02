@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSConsoleApp", "PSConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSWebAPI", "PSWebAPI\PSWebAPI.csproj", "{BCDD8595-74E5-44DB-A7C9-88F33303AC87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSClassLibrary", "PSClassLibrary\PSClassLibrary.csproj", "{10875728-B956-4C86-8B4B-CFF3EACC883D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BCDD8595-74E5-44DB-A7C9-88F33303AC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCDD8595-74E5-44DB-A7C9-88F33303AC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCDD8595-74E5-44DB-A7C9-88F33303AC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10875728-B956-4C86-8B4B-CFF3EACC883D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10875728-B956-4C86-8B4B-CFF3EACC883D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10875728-B956-4C86-8B4B-CFF3EACC883D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10875728-B956-4C86-8B4B-CFF3EACC883D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
