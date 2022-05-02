@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\ps-demos\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj": {}
+    "C:\\Users\\kruz7\\Desktop\\Git\\ps-visual-studio-2022-fundamentals\\Establishing the Basics\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ps-demos\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj": {
+    "C:\\Users\\kruz7\\Desktop\\Git\\ps-visual-studio-2022-fundamentals\\Establishing the Basics\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ps-demos\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj",
+        "projectUniqueName": "C:\\Users\\kruz7\\Desktop\\Git\\ps-visual-studio-2022-fundamentals\\Establishing the Basics\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj",
         "projectName": "MyExistingProject",
-        "projectPath": "C:\\temp\\ps-demos\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj",
+        "projectPath": "C:\\Users\\kruz7\\Desktop\\Git\\ps-visual-studio-2022-fundamentals\\Establishing the Basics\\MySecondProject\\MyExistingProject\\MyExistingProject.csproj",
         "packagesPath": "C:\\Users\\kruz7\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\ps-demos\\MySecondProject\\MyExistingProject\\obj\\",
+        "outputPath": "C:\\Users\\kruz7\\Desktop\\Git\\ps-visual-studio-2022-fundamentals\\Establishing the Basics\\MySecondProject\\MyExistingProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
