@@ -4,5 +4,5 @@ Console.WriteLine("Hello, World!");
 // Addition
 var x = 1;
 var y = 2;
-var result = MyFirstClassLibrary.CalculatorMethods.Add(x, y);
+var result = PSClassLibrary.CalculatorMethods.Add(x, y);
 Console.WriteLine(x + " plus " + y + " Equals " + result);
