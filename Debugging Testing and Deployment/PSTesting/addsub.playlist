@@ -1,0 +1,36 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="PSTestProject" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="PSTestProject" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="CalculatorMethodsTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="PSTestProject.CalculatorMethodsTest.ShouldAddTwoNumbers" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ShouldAddTwoNumbers" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="PSTestProject.CalculatorMethodsTest.ShouldSubtractTwoNumbers" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ShouldSubtractTwoNumbers" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>

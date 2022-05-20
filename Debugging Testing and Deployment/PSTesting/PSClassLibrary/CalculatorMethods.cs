@@ -23,13 +23,13 @@
 		public static float Divide(float x, float y)
 		{
 			Console.WriteLine("Dividing {0} divided by {1}", x, y);
-			if (y == 0)
+			if (y != 0)
 			{
-				return 0;
+				return x / y;
 			}
 			else
 			{
-				return x / y;
+				return 0;
 			}
 		}
 
