@@ -1,3 +1,4 @@
+using Microsoft.QualityTools.Testing.Fakes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PSClassLibrary;
 
@@ -58,6 +59,26 @@ namespace PSTestProject
 
 			Assert.AreEqual(expectedResult, answer);
 
+		}
+
+		[TestMethod]
+		public void ShimsTest()
+		{
+			using (ShimsContext.Create())
+			{
+				PSClassLibrary.Fakes.ShimCalculatorMethods.AddSingleSingle = (x, y) =>
+				{
+					return 5;
+				};
+
+				const float expectedResult = 5;
+				const float xValue = 2;
+				const float yValue = 2;
+
+				float answer = CalculatorMethods.Add(xValue, yValue);
+
+				Assert.AreEqual(expectedResult, answer);
+			}
 		}
 	}
 }

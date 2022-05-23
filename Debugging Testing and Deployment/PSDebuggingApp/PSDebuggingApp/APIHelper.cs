@@ -7,7 +7,7 @@ namespace PSDebuggingApp
 	{
 		static HttpClient client = new HttpClient()
 		{
-			BaseAddress = new Uri("https://localhost:7244/")
+			BaseAddress = new Uri("https://pspublishingapp20220520124252.azurewebsites.net/")
 		};
 
 		public static async Task<float> APIPost(string apiURL, Equation equation)
