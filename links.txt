@@ -1,0 +1,10 @@
+https://docs.microsoft.com/en-us/visualstudio/modeling/map-dependencies-across-your-solutions?view=vs-2022
+https://dailydotnettips.com/compare-clone-code-in-visual-studio/
+https://docs.microsoft.com/en-us/visualstudio/ide/find-code-changes-and-other-history-with-codelens?view=vs-2022
+https://docs.microsoft.com/en-us/visualstudio/debugger/walkthrough-using-intellitrace?view=vs-2022
+https://www.dotnetcurry.com/visualstudio/885/code-map-debugger-integration-visual-studio-2012
+https://devblogs.microsoft.com/visualstudio/managed-memory-dump-analyzers/
+https://devblogs.microsoft.com/visualstudio/snapshot-debugging-with-visual-studio-2017-now-ready-for-production/
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger
+https://devblogs.microsoft.com/visualstudio/introducing-time-travel-debugging-for-visual-studio-enterprise-2019/#:~:text=The%20Time%20Travel%20Debugging%20(TTD,and%20replay%20the%20execution%20path.
+https://www.c-sharpcorner.com/blogs/difference-between-build-rebuild-clean-in-visual-studio
